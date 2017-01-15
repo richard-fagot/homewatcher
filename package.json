@@ -1,0 +1,19 @@
+{
+  "name": "homewatcher",
+  "version": "0.0.1",
+  "description": "Visualisation et manupulation des métriques d'une maison",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richard-fagot/homewatcher.git"
+  },
+  "author": "Richard Fagot",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/richard-fagot/homewatcher/issues"
+  },
+  "homepage": "https://github.com/richard-fagot/homewatcher#readme"
+}
